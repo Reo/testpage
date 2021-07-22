@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Example posts
 
-- [First example post](/example-post)
+- [First example post](/testpage/example-post)
